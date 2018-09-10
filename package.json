@@ -1,0 +1,35 @@
+{
+  "name": "koa2-route-decorator",
+  "version": "1.0.3",
+  "description": "koa2-router-decorator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir lib"
+  },
+  "author": "jingbo",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.10"
+  },
+  "keywords": [
+    "koa",
+    "router",
+    "koa2",
+    "decorator"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.12",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
