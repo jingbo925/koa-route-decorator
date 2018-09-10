@@ -3,15 +3,15 @@
 npm i koa2-route-decorator
 ```
 
-##Decorators
+## Decorators
 
-@router(path)
-@get(path, middleware)
-@post(path, middleware)
-@put(path, middleware)
-@del(path, middleware)
-@use
-@all
+- @router(path)
+- @get(path, middleware)
+- @post(path, middleware)
+- @put(path, middleware)
+- @del(path, middleware)
+- @use
+- @all
 
 ## demo
 
