@@ -45,7 +45,7 @@ export class userController {
     }
   }
 
-  @post('/redis', checkToken())
+  @post('/sign', checkToken())
   async sign(ctx, next) {
     const user = ctx.user
     ctx.body = {

@@ -1,6 +1,6 @@
 {
   "name": "koa2-route-decorator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "koa2-router-decorator",
   "main": "lib/index.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "koa2",
     "decorator"
   ],
+  "repository": "https://github.com/jingbo925/koa-route-decorator.git",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-add-module-exports": "^0.2.1",
