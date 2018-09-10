@@ -1,0 +1,1 @@
+# koa-route-decorator
