@@ -14,7 +14,7 @@ npm i koa2-route-decorator
 - @all
 
 ## demo
-
+test
 ```
 index.js
 
